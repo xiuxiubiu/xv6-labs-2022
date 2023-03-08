@@ -1,0 +1,5 @@
+usertrap
+sys_exec
+user mode
+lbu a4,0(a3) stval
+initcode 1
